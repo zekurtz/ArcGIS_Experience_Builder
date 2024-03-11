@@ -1,0 +1,23 @@
+{
+  "name": "TimmonsGroup",
+  "label": "TimmonsGroup",
+  "type": "theme",
+  "thumbnails ": [],
+  "font": {
+    "fontFamily": "Arial",
+    "color": "#484848"
+  },
+  "version": "1.13.0",
+  "exbVersion": "1.13.0",
+  "author": "Zachery Kurtz - Timmons Group",
+  "description": "This is a test theme showcasing Timmons Group branding",
+  "copyright": "Timmons Group",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "translatedLocales": [
+    "en"
+  ],
+  "styleFiles": {
+    "css": false,
+    "js": true
+  }
+}

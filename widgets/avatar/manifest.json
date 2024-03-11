@@ -1,0 +1,22 @@
+{
+  "name": "avatar",
+  "label": "avatar",
+  "type": "widget",
+  "version": "1.13.0",
+  "exbVersion": "1.13.0",
+  "author": "Zachery Kurtz - Timmons Group",
+  "description": "Displaying user profile info",
+  "copyright": "Timmons Group",
+  "dependency": "jimu-arcgis",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "hasConfig": true
+  },
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 400,
+    "height": 100
+  }
+}
